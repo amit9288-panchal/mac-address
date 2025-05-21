@@ -1,4 +1,4 @@
-# Glide MAC Vendor Lookup
+# MAC Vendor Lookup
 
 Provides a system for identifying the manufacturer (vendor) of a device based on its MAC address.  
 It imports and maintains an up-to-date database of IEEE OUI (Organizationally Unique Identifier) records, then provides both a JSON API and a basic frontend to search for vendors.
